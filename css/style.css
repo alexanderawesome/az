@@ -1,0 +1,62 @@
+body {
+  background-color: #ecfbfc;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+h1 {
+  color: #66bfbf
+}
+
+.circular {
+  border-radius: 100%;
+}
+
+/******************tag selectors**************/
+img:hover {
+  background-color: gold;
+}
+
+h1 {
+  color: blue;
+}
+
+/******************class selectors**************/
+.bacon {
+  background-color: green;
+}
+
+.broccoli {
+  background-color: red;
+}
+
+.circular {
+  border-radius: 100%;
+}
+
+/******************ID selectors**************/
+#heading {
+  color: blue;
+}
+
+#big {
+  font-size: 1000px;
+}
+
+div {
+  background-color: #eb4559
+}
+
+body {
+  margin: 0;
+}
+
+h1 {
+  margin-top: 0;
+}
